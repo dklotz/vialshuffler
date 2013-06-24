@@ -16,5 +16,28 @@
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
+    
+    <!-- Custom style for table rows -->
+    <style name="TableRow" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Custom style for table header cells -->
+    <style name="TableHeaderCell" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/cell_shape</item>
+        <item name="android:padding">@dimen/table_cell_padding</item>
+    </style>
+
+    <!-- Custom style for table data cells -->
+    <style name="TableCell" parent="@android:style/TextAppearance.Small">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/cell_shape</item>
+        <item name="android:padding">@dimen/table_cell_padding</item>
+        <item name="android:text">@string/default_cellcontent</item>
+    </style>
 
 </resources>
