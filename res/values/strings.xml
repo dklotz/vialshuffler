@@ -3,6 +3,8 @@
 
     <string name="app_name">VialShuffler</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="number_vials">Number of vials:</string>
+    <string name="action_shuffle">Shuffle</string>
+    <string name="default_numvials">30</string>
 
 </resources>

@@ -9,8 +9,31 @@
     tools:context=".MainActivity" >
 
     <TextView
+        android:id="@+id/desc_vials"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+        android:text="@string/number_vials" 
+        android:paddingTop="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/vials_field" />
+
+    <EditText
+        android:id="@+id/vials_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:layout_alignBaseline="@id/desc_vials"
+        android:layout_toLeftOf="@+id/shuffle_button"
+        android:text="@string/default_numvials" >
+        <requestFocus />
+    </EditText>
+    
+    <Button
+        android:id="@+id/shuffle_button"
+        android:layout_width="85dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/desc_vials"
+        android:layout_alignParentRight="true"
+        android:text="@string/action_shuffle" />
 
 </RelativeLayout>
