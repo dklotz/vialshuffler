@@ -8,4 +8,26 @@
     <string name="default_numvials">30</string>
     <string name="default_cellcontent">"  "</string>
 
+    <string name="cell_label_00">" "</string>
+    <string name="cell_label_A0">A</string>
+    <string name="cell_label_B0">B</string>
+    <string name="cell_label_C0">C</string>
+    <string name="cell_label_D0">D</string>
+    <string name="cell_label_E0">E</string>
+    <string name="cell_label_F0">F</string>
+    <string name="cell_label_G0">G</string>
+    <string name="cell_label_H0">H</string>
+    <string name="cell_label_I0">I</string>
+    <string name="cell_label_J0">J</string>
+    
+    <string name="cell_label_01">1</string>
+    <string name="cell_label_02">2</string>
+    <string name="cell_label_03">3</string>
+    <string name="cell_label_04">4</string>
+    <string name="cell_label_05">5</string>
+    <string name="cell_label_06">6</string>
+    <string name="cell_label_07">7</string>
+    <string name="cell_label_08">8</string>
+    <string name="cell_label_09">9</string>
+    <string name="cell_label_010">10</string>
 </resources>

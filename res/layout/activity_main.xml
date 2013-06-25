@@ -55,67 +55,67 @@
                 <TextView
                     android:id="@+id/tableCell00"
                     style="@style/TableHeaderCell"
-                    android:text=" " >
+                    android:text="@string/cell_label_00" >
                 </TextView>
 
                 <TextView
                     android:id="@+id/tableCellA0"
                     style="@style/TableHeaderCell"
-                    android:text="A" >
+                    android:text="@string/cell_label_A0" >
                 </TextView>
 
                 <TextView
                     android:id="@+id/tableCellB0"
                     style="@style/TableHeaderCell"
-                    android:text="B" >
+                    android:text="@string/cell_label_B0" >
                 </TextView>
 
                 <TextView
                     android:id="@+id/tableCellC0"
                     style="@style/TableHeaderCell"
-                    android:text="C" >
+                    android:text="@string/cell_label_C0" >
                 </TextView>
 
                 <TextView
                     android:id="@+id/tableCellD0"
                     style="@style/TableHeaderCell"
-                    android:text="D" >
+                    android:text="@string/cell_label_D0" >
                 </TextView>
 
                 <TextView
                     android:id="@+id/tableCellE0"
                     style="@style/TableHeaderCell"
-                    android:text="E" >
+                    android:text="@string/cell_label_E0" >
                 </TextView>
 
                 <TextView
                     android:id="@+id/tableCellF0"
                     style="@style/TableHeaderCell"
-                    android:text="F" >
+                    android:text="@string/cell_label_F0" >
                 </TextView>
 
                 <TextView
                     android:id="@+id/tableCellG0"
                     style="@style/TableHeaderCell"
-                    android:text="G" >
+                    android:text="@string/cell_label_G0" >
                 </TextView>
 
                 <TextView
                     android:id="@+id/tableCellH0"
                     style="@style/TableHeaderCell"
-                    android:text="H" >
+                    android:text="@string/cell_label_H0" >
                 </TextView>
 
                 <TextView
                     android:id="@+id/tableCellI0"
                     style="@style/TableHeaderCell"
-                    android:text="I" >
+                    android:text="@string/cell_label_I0" >
                 </TextView>
 
                 <TextView
                     android:id="@+id/tableCellJ0"
                     style="@style/TableHeaderCell"
-                    android:text="J" >
+                    android:text="@string/cell_label_J0" >
                 </TextView>
             </TableRow>
 
@@ -126,7 +126,7 @@
                 <TextView
                     android:id="@+id/tableCell01"
                     style="@style/TableHeaderCell"
-                    android:text="1" >
+                    android:text="@string/cell_label_01" >
                 </TextView>
 
                 <TextView
@@ -187,7 +187,7 @@
                 <TextView
                     android:id="@+id/tableCell02"
                     style="@style/TableHeaderCell"
-                    android:text="2" >
+                    android:text="@string/cell_label_02" >
                 </TextView>
 
                 <TextView
@@ -248,7 +248,7 @@
                 <TextView
                     android:id="@+id/tableCell03"
                     style="@style/TableHeaderCell"
-                    android:text="3" >
+                    android:text="@string/cell_label_03" >
                 </TextView>
 
                 <TextView
@@ -309,7 +309,7 @@
                 <TextView
                     android:id="@+id/tableCell04"
                     style="@style/TableHeaderCell"
-                    android:text="4" >
+                    android:text="@string/cell_label_04" >
                 </TextView>
 
                 <TextView
@@ -370,7 +370,7 @@
                 <TextView
                     android:id="@+id/tableCell05"
                     style="@style/TableHeaderCell"
-                    android:text="5" >
+                    android:text="@string/cell_label_05" >
                 </TextView>
 
                 <TextView
@@ -431,7 +431,7 @@
                 <TextView
                     android:id="@+id/tableCell06"
                     style="@style/TableHeaderCell"
-                    android:text="6" >
+                    android:text="@string/cell_label_06" >
                 </TextView>
 
                 <TextView
@@ -492,7 +492,7 @@
                 <TextView
                     android:id="@+id/tableCell07"
                     style="@style/TableHeaderCell"
-                    android:text="7" >
+                    android:text="@string/cell_label_07" >
                 </TextView>
 
                 <TextView
@@ -553,7 +553,7 @@
                 <TextView
                     android:id="@+id/tableCell08"
                     style="@style/TableHeaderCell"
-                    android:text="8" >
+                    android:text="@string/cell_label_08" >
                 </TextView>
 
                 <TextView
@@ -614,7 +614,7 @@
                 <TextView
                     android:id="@+id/tableCell09"
                     style="@style/TableHeaderCell"
-                    android:text="9" >
+                    android:text="@string/cell_label_09" >
                 </TextView>
 
                 <TextView
@@ -675,7 +675,7 @@
                 <TextView
                     android:id="@+id/tableCell010"
                     style="@style/TableHeaderCell"
-                    android:text="10" >
+                    android:text="@string/cell_label_010" >
                 </TextView>
 
                 <TextView
