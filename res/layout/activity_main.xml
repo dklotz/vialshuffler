@@ -38,6 +38,7 @@
             android:layout_height="wrap_content"
             android:layout_alignBaseline="@id/desc_vials"
             android:layout_alignParentRight="true"
+            android:onClick="shuffle"
             android:text="@string/action_shuffle" >
 
         </Button>
