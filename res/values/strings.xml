@@ -6,6 +6,6 @@
     <string name="number_vials">Number of vials:</string>
     <string name="action_shuffle">Shuffle</string>
     <string name="default_numvials">30</string>
-    <string name="default_cellcontent">  </string>
+    <string name="default_cellcontent">"  "</string>
 
 </resources>
